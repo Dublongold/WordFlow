@@ -18,19 +18,19 @@ WordFlow is an Android vocabulary companion app built with Jetpack Compose. It h
 
 | Home | Dictionary | Swiping |
 | --- | --- | --- |
-| ![Home](screenshots/home.png) | ![Dictionary](screenshots/dictionary.png) | ![Swiping](screenshots/swiping.png) |
+| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/dictionary.png" width="220"/> | <img src="screenshots/swiping.png" width="220"/> |
 
 | Viewed | Favorites | Notes |
 | --- | --- | --- |
-| ![Viewed](screenshots/viewed.png) | ![Favorites](screenshots/favorites.png) | ![Word Notes](screenshots/word_notes.png) |
+| <img src="screenshots/viewed.png" width="220"/> | <img src="screenshots/favorites.png" width="220"/> | <img src="screenshots/word_notes.png" width="220"/> |
 
 | Add Note | Guess Word | Word Counter |
 | --- | --- | --- |
-| ![Add Note](screenshots/add_note.png) | ![Guess Word](screenshots/guess_word.png) | ![Word Counter](screenshots/word_counter.png) |
+| <img src="screenshots/add_note.png" width="220"/> | <img src="screenshots/guess_word.png" width="220"/> | <img src="screenshots/word_counter.png" width="220"/> |
 
 | Letter Calculator | Settings |
 | --- | --- |
-| ![Letter Calculator](screenshots/letter_counter.png) | ![Settings](screenshots/settings.png) |
+| <img src="screenshots/letter_counter.png" width="220"/> | <img src="screenshots/settings.png" width="220"/> |
 
 ## Tech stack
 
